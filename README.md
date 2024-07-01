@@ -26,7 +26,7 @@ Para obtener más información sobre los proyectos de este Kit, visita nuestro b
 15. [**Uso de los sensores de sonido KY-038/KY-037 para controlar el encendido de un foco.**](https://blog.uelectronics.com/tarjetas-desarrollo/uso-de-los-sensores-de-sonido-ky-038-ky-037-para-controlar-el-encendido-de-un-foco/)
 16. [**Control de un Servomotor SG90 con el Sensor Push Button KY-004**](https://blog.uelectronics.com/tarjetas-desarrollo/arduino/control-de-un-servomotor-sg90-con-el-sensor-push-button-ky-004/)
 17. [**Control de Servomotores SG90 con Módulo KY-023 Sensor Joystick**](https://blog.uelectronics.com/tarjetas-desarrollo/arduino/control-de-servomotores-sg90-con-modulo-ky-023-sensor-joystick/)
-18. [**Control de Servomotores SG90 con Módulo KY-023 Sensor Joystick**](https://blog.uelectronics.com/tarjetas-desarrollo/arduino/detecta-tu-ritmo-cardiaco-a-traves-del-ky-039/)
+18. [**Detecta tu Ritmo Cardíaco a través del KY-039**](https://blog.uelectronics.com/tarjetas-desarrollo/arduino/detecta-tu-ritmo-cardiaco-a-traves-del-ky-039/)
 19. [**Sensor Encoder KY-040 para control de leds**](https://blog.uelectronics.com/tarjetas-desarrollo/control-de-leds-mediante-modulo-sensor-encoder-ky-040/)
 20. [**Funcionamiento del Sensor de Metal Módulo KY-036**](https://blog.uelectronics.com/uncategorized/tutorial-sensor-de-metal-modulo-ky-036/)
 
